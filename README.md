@@ -1,4 +1,4 @@
-# Coronary-Heart-Disease-CHD-
+# Coronary-Heart-Disease-CHD
 
 Heart Disease prediction using Machine Learning
 
